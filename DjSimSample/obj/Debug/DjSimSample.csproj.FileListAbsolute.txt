@@ -1,0 +1,211 @@
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\DjSimSample\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\DjSimSample - コピー (2)\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch1\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch2\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch2 - コピー\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\DjSimSample.exe.config
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Asio.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Core.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Midi.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.WinForms.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.WinMM.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Asio.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Core.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Midi.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.WinForms.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\NAudio.WinMM.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.csproj.AssemblyReference.cache
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\MainWindow.baml
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\MainWindow.g.cs
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\App.g.cs
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample_MarkupCompile.cache
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.g.resources
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.Properties.Resources.resources
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.csproj.GenerateResource.cache
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.csproj.CoreCompileInputs.cache
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSam.BDA8697D.Up2Date
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.exe
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample.pdb
+C:\Users\Vezem\Desktop\branch3\DjSimSample\obj\Debug\DjSimSample_Content.g.cs
